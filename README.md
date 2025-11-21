@@ -1,6 +1,6 @@
 ﻿# Term_Project_CICIoT2023_ML
-<img width="1758" height="939" alt="image" src="https://github.com/user-attachments/assets/299ac164-6efb-4554-b00b-643c78e9ace3" /><br/>
-<img width="1361" height="719" alt="image" src="https://github.com/user-attachments/assets/4e12e6b4-030f-4849-b2c5-a1a6d5ec8ca1" /><br/>
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/299ac164-6efb-4554-b00b-643c78e9ace3" /><br/>
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/4e12e6b4-030f-4849-b2c5-a1a6d5ec8ca1" /><br/>
 
 CICIoT2023 : 105개의 실제 사물인터넷 IoT 기기에서 33종의 최신 공격을 실행하여 수집한 데이터
 https://www.kaggle.com/datasets/madhavmalhotra/unb-cic-iot-dataset
