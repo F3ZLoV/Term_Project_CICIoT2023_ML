@@ -341,12 +341,12 @@ def print_evaluation_metrics(model_name, y_true, y_pred, average_mode='macro', p
 # 2진 분류 평가 (Attack/Benign)
 print_evaluation_metrics("LogisticRegression (2 classes)", y_test_2, y_pred_2, average_mode='binary')
 plot_confusion_matrix(y_test_2, y_pred_2, model_2.classes_,
-                      "2 classes", "eval_cm_2_classes.png")
+                      "2 classes", "result_images/eval_cm_2_classes.png")
 
 # 8종 분류 평가
 print_evaluation_metrics("LogisticRegression (8 classes)", y_test_8, y_pred_8, average_mode='macro')
 plot_confusion_matrix(y_test_8, y_pred_8, model_8.classes_,
-                      "8 classes", "eval_cm_8_classes.png")
+                      "8 classes", "result_images/eval_cm_8_classes.png")
 
 # 34종 분류 평가 (Confusion Matrix는 너무 커서 비활성화)
 print_evaluation_metrics("LogisticRegression (34 classes)", y_test_34, y_pred_34, average_mode='macro')
